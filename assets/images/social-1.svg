@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img" aria-label="Social media feature thumbnail">
+  <rect width="1280" height="800" fill="#151615"/>
+  <path d="M0 570C210 480 326 620 520 526c214-104 332-358 760-238v512H0Z" fill="#9f2f32"/>
+  <circle cx="894" cy="250" r="170" fill="#c9a35a" opacity=".72"/>
+  <rect x="122" y="124" width="560" height="120" rx="28" fill="#f4efe7" opacity=".12"/>
+  <rect x="122" y="288" width="420" height="32" rx="16" fill="#f4efe7" opacity=".42"/>
+  <rect x="122" y="348" width="620" height="32" rx="16" fill="#f4efe7" opacity=".25"/>
+</svg>
