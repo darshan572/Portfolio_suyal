@@ -261,7 +261,7 @@ const portfolioData = {
   socialLinks: {
     instagram: {
       label: "Instagram",
-      url: "https://www.instagram.com/ilahitravels_podcast/",
+      url: "https://www.instagram.com/_priya.suyal_/",
       metric: "Podcast reels"
     },
     youtube: {
