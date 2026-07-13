@@ -21,7 +21,7 @@ const portfolioData = {
     heroStats: [
       { value: "50", suffix: "+", label: "guests coordinated" },
       { value: "8", suffix: "", label: "podcast features" },
-      { value: "10+", suffix: "", label: "competition wins" },
+      { value: "10", suffix: "+", label: "competition wins" },
       { value: "5", suffix: "", label: "media roles" }
     ],
     typewriter: [
