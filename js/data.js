@@ -21,7 +21,7 @@ const portfolioData = {
     heroStats: [
       { value: "50", suffix: "+", label: "guests coordinated" },
       { value: "8", suffix: "", label: "podcast features" },
-      { value: "4", suffix: "", label: "competition wins" },
+      { value: "10+", suffix: "", label: "competition wins" },
       { value: "5", suffix: "", label: "media roles" }
     ],
     typewriter: [
@@ -258,12 +258,7 @@ const portfolioData = {
       image: "assets/images/priya_youth_strategy.png"
     }
   ],
-  socialLinks: {
-    instagram: {
-      label: "Instagram",
-      url: "https://www.instagram.com/_priya.suyal_/",
-      metric: "Podcast reels"
-    },
+ 
     youtube: {
       label: "YouTube",
       url: "https://youtu.be/xcTEsxdpqnE",
