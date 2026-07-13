@@ -587,7 +587,7 @@ function App() {
 
       <Section id="achievements" title="Awards & Recognition" eyebrow="Achievements">
         <div className="counter-strip">
-          <Stat value="04" label="Competition wins" />
+          <Stat value="10" suffix=" +" label="Competition wins" />
           <Stat value="08" label="Podcast features" />
           <Stat value="05" label="Media roles" />
         </div>
