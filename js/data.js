@@ -258,7 +258,7 @@ const portfolioData = {
       image: "assets/images/priya_youth_strategy.png"
     }
   ],
- socialLinks: {
+  socialLinks: {
     youtube: {
       label: "YouTube",
       url: "https://youtu.be/xcTEsxdpqnE",
