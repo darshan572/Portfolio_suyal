@@ -14,7 +14,7 @@ const portfolioData = {
     location: "India",
     email: "priyasuyal414@gmail.com",
     phone: "+91 9258555024",
-    resumeUrl: "assets/resume/Priya_Suyal_Resume.docx",
+    resumeUrl: "assets/resume/priya_suyal002.pdf",
     photoUrl: "assets/images/priya-suyal-profile.jpeg",
     driveUrl: "https://drive.google.com/drive/folders/1NnG6JQJFUxW9fTj6L1aNx-yv3ZrH02JT",
     showreelUrl: "public/reels/p1.mp4",
