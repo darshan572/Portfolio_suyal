@@ -393,7 +393,7 @@ function App() {
               <a href="#showreel" className="btn-primary">Watch Showreel <span className="action-icon">{getServiceIcon("play")}</span></a>
               <a href="#portfolio" className="btn-ghost">Selected Work</a>
               <a href={portfolioData.profile.resumeUrl} className="btn-ghost" download>Resume <span className="action-icon">{getServiceIcon("download")}</span></a>
-              <a href="#contact" className="btn-ghost">Book Priya</a>
+              <a href="#contact" className="btn-ghost">Connect Priya</a>
             </div>
             <div className="hero-metrics">
               {portfolioData.profile.heroStats.map((item) => (
